@@ -1,6 +1,6 @@
 {
   "name": "mcp-updatenotifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared MCP utility for checking npm registry for newer versions at startup",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
